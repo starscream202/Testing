@@ -14,7 +14,7 @@ public class Main {
         List<String> strings1=new ArrayList<>();
 
         for (String words :strings) {
-            String modifiedText=dollarSign+words;
+            String modifiedText=hashTag+words;
             strings1.add(modifiedText);
 
         }
